@@ -5,14 +5,6 @@
 * **NASA Harvest**: Remote sensing, feature selection, 1D CNN model, Satellite Imagery
 * **SSAI (NASA Goddard)**: Cloud detection, deep learning, multi-threading, Satellite Imagery, Tensorflow
 
-### Education
-
-* B.S in Computer Science & minor in Statistics, University of Maryland, College Park (GPA: 3.7/4.0)
-
-### Awards
-
-* Recipient of the KGSP full-ride scholarship for undergraduate studies in the USA
-
 ### Tools
 
 * **Machine Learning**: PyTorch, Keras, SKLearn, Axolotl, Weaviate VectorDB, llama.cpp
