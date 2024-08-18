@@ -28,6 +28,7 @@ Checkout my YouTube channel for project demos and explanations:
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
+A timeline-oriented view of projects: https://terpconnect.umd.edu/~talnufai/
 
 <!--
 **ta0a2000t/ta0a2000t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
