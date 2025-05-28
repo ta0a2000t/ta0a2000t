@@ -1,9 +1,8 @@
 ### Tools
 
-* **Machine Learning**: PyTorch, Keras, SKLearn, Axolotl, Weaviate VectorDB, llama.cpp
-* **Cloud Computing**: Cognito, Firebase, DynamoDB NoSQL, FireStore NoSQL, Amplify, AWS
+* **Machine Learning**: PyTorch, Keras, SKLearn, Axolotl, Weaviate VectorDB, llama.cpp, vllm
+* **Cloud Computing**: Cognito, Firebase, DynamoDB NoSQL, FireStore NoSQL, Amplify, AWS, Firebase
 * **Data Science**: Pandas, NumPy, Matplotlib, Bokeh, Plotly
-* **Web Development**: React, Node.js, TypeScript, GraphQL
 
 <!--
 **ta0a2000t/ta0a2000t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
